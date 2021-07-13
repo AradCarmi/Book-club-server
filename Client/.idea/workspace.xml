@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Boost_Echo_Client" targetName="Boost_Echo_Client" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="867727f1-0cfa-45fb-9a5f-a4337eab74e4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1WCgUKXwBqsnpfgmzOiqgxS2pU2" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.dekel">
+    <configuration name="arad" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Boost_Echo_Client" TARGET_NAME="Boost_Echo_Client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Boost_Echo_Client" RUN_TARGET_NAME="Boost_Echo_Client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dekel" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Boost_Echo_Client" TARGET_NAME="Boost_Echo_Client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Boost_Echo_Client" RUN_TARGET_NAME="Boost_Echo_Client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="micha" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Boost_Echo_Client" TARGET_NAME="Boost_Echo_Client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Boost_Echo_Client" RUN_TARGET_NAME="Boost_Echo_Client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.micha" />
+      <item itemvalue="CMake Application.arad" />
+      <item itemvalue="CMake Application.dekel" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="867727f1-0cfa-45fb-9a5f-a4337eab74e4" name="Default Changelist" comment="" />
+      <created>1578659004713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578659004713</updated>
+      <workItem from="1578659008863" duration="11047000" />
+      <workItem from="1578670769926" duration="1067000" />
+      <workItem from="1578839839609" duration="7527000" />
+      <workItem from="1578849912803" duration="24418000" />
+      <workItem from="1578918300660" duration="4626000" />
+      <workItem from="1578937792805" duration="2392000" />
+      <workItem from="1578948209407" duration="23883000" />
+      <workItem from="1578995270587" duration="12173000" />
+      <workItem from="1579007547178" duration="16036000" />
+      <workItem from="1579026408358" duration="22577000" />
+      <workItem from="1579072346855" duration="9678000" />
+      <workItem from="1579082059733" duration="32977000" />
+      <workItem from="1579180849762" duration="117000" />
+      <workItem from="1579181123614" duration="1287000" />
+      <workItem from="1579182522138" duration="10609000" />
+      <workItem from="1579194578509" duration="4887000" />
+      <workItem from="1579250040617" duration="6817000" />
+      <workItem from="1579259742694" duration="1135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/MessagesFromClientProtocol.cpp</url>
+          <line>173</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/KeyBoardListener.cpp</url>
+          <line>40</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
